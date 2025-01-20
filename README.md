@@ -18,5 +18,7 @@ Special thanks to:
 noplaydylan, James Napora, itemset, _dri, topstepper, fro, zelvics, synttax, GacekKosmatek, deckerly, Tobias020108Back, inkthirsty, flow, 
 
 Last updated: Check latest commit
+
 Current version: 1.0
+
 This will be open sourced at some point in the future!
